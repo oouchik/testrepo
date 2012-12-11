@@ -5,7 +5,7 @@ import android.app.Activity;
 import android.view.Menu;
 
 /**
- * 
+ * テスト用モジュール
  * @author oouchik
  *
  */
